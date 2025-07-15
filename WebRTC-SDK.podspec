@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name = "WebRTC-SDK"
-  spec.version = "m137_release"
+  spec.version = "137.7777.77"
   spec.summary = "WebRTC pre-compiled library for Darwin. "
   spec.description = <<-DESC
   WebRTC pre-compiled library for Darwin.
